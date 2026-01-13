@@ -69,9 +69,13 @@ Iam still working on improving the project. Some features I plan to add are:
 
 # Screenshots(reference)
 
-- Homepage: screenshots/homepage.png
-- Complaints:  screenshots/mycomplaints.png
-- Filing a new complaint:  screenshots/newcomplaint.png
+Here, I have aded few snippets of the project and how it looks:
+- Homepage:
+  ![Homepage screenshot](screenshots/homepage.png)
+- Complaints:
+  ![Complaints screenshot](screenshots/mycomplaints.png)
+- Filing a new complaint:
+  ![New complaint screenshot](screenshots/newcomplaint.png)
 
 
 
